@@ -6,6 +6,12 @@ There is three floating button
 2. Marker- Create a marker with dummy title and contnet
 3. Toggle Button- Toggle the map type norma/sattelite.
 
+## Screenshots
+![Screenshot](screen1.png)
+![Screenshot](screen2.png)
+![Screenshot](screen3.png)
+![Screenshot](screen4.png)
+
 
 
 ## Getting Started
